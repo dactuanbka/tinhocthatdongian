@@ -1,2 +1,3 @@
-hello
-this is file in develop
+<?php
+echo "tin hoc that la don gian"
+?>
